@@ -7,6 +7,9 @@ import java.util.Map;
 public class Main {
     private ArrayList<String> strings;
 
+    public void randomMethod() {
+        System.out.println("jwdooj");
+    }
     public Main() {
         strings = new ArrayList<>();
     }
